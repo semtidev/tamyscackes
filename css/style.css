@@ -9483,7 +9483,7 @@ iframe#gmap_canvas {
     width: 54px;
     height: 36px;
     color: #ffffff;
-    background-color: #ff91a4;
+    background-color: #f85eb0;
     border-radius: 30px;
 	font-weight:normal;
 	-webkit-transition:all 300ms ease;
@@ -9661,7 +9661,7 @@ iframe#gmap_canvas {
     line-height: 29px;
     color: #ffffff;
     border-radius: 30px;
-    background-color: #ff91a4;
+    background-color: #f85eb0;
     -webkit-transition: all 300ms ease;
     -moz-transition: all 300ms ease;
     -ms-transition: all 300ms ease;
@@ -9671,7 +9671,7 @@ iframe#gmap_canvas {
 
 .tag-list li a:hover{
 	color: #ffffff;
-	background-color: #EE4684;
+	background-color: #E7499D;
 	box-shadow: inset 0 0 10px rgba(0,0,0,0.10);
 }
 
